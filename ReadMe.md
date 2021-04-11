@@ -32,6 +32,5 @@ Core code exist in app/src/model folder
 <img src="images/ffd3d.gif">
 <img src="images/fluid.gif">
 <img src="images/ik.gif">
-<img src="images/fluid.gif">
 <img src="images/skeleton-animation.gif">
 
